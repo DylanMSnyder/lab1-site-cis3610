@@ -1,3 +1,3 @@
-# Lab 1 HTML Site CIS3610
-## LAB 1 Website HTML page for CIS3610
+# Lab 1 FALL 2025 CIS3610
+## LAB 1 : HTML Basics
 ### [Link here:](https://dylansnyd.github.io/lab1-site-cis3610/)
